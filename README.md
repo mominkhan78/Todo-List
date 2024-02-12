@@ -1,4 +1,4 @@
-# Todo-List
+# Todo-List Using Html, CSS, Bootstrap and JavaScript
 
 <img width="400px" src="./TodoList.png">
 
